@@ -1,2 +1,2 @@
-# BCM_koray
-BCM Koray Repo
+# BCM_upstream
+BCM Upstream Repo
